@@ -12,4 +12,6 @@ int main()
             printf("%d是一个水仙花数\n", num);
         }
     }
+
+    return 0;
 }
